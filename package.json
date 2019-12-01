@@ -1,0 +1,11 @@
+{
+  "name": "name-exists",
+  "version": "0.0.0",
+  "description": "Check if a package name is available on npm",
+  "main": "index.js",
+  "bin": "bin.js",
+  "dependencies": {
+    "all-the-package-names": "^1.3905.0",
+    "yargs": "^15.0.2"
+  }
+}
